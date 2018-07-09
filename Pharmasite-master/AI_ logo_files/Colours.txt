@@ -1,0 +1,21 @@
+ARBOR LANE PHARMACY
+Arbor Lane Pharmacy
+Colors
+
+C=10 M=100 Y=50 K=0
+D91B5B   dark pink
+#da1c5c
+F94697     light pink
+#f94697
+1A86C6    Dark Blue
+#1a86c6
+5FA9D6   light blue
+#5fa9d6
+
+Grays
+58595B
+#58595b
+939598
+#939598
+BCBEC0
+#bcbec0
